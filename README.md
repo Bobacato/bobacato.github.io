@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my help page
 
 You can use the [editor on GitHub](https://github.com/Bobacato/Bobacato.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
