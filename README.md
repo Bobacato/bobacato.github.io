@@ -1,12 +1,11 @@
-## Welcome to my help page
+## Welcome to the community server's web page
 
-You can use the [editor on GitHub](https://github.com/Bobacato/Bobacato.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+```markdown
+### About us
 
-### Markdown
+We are a LGBTQIA+ friendly community and we try our best as a staff team to help everyone feel at home!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
