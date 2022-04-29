@@ -8,7 +8,7 @@ We are a LGBTQIA+ friendly community and we try our best as a staff team to help
 
 ## Upcomming events
 we have no upcomming events however
- -[ ]  suggest some events! and we will do them 
+ - [ ]  suggest some events! and we will do them 
 
 ## Plan for the future!
 We are planning a revamp, please suggest ideas for us to use!
