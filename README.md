@@ -1,10 +1,17 @@
 ## Welcome to the community server's web page
 
 
-```markdown
+
 ### About us
 
-We are a LGBTQIA+ friendly community and we try our best as a staff team to help everyone feel at home!
+We are a LGBTQIA+ friendly community and we try our best as a staff team to help everyone feel at home! we host events and giveaways and try to keep an active community. we are always looking for staff!
+
+## Upcomming events
+we have no upcomming events however
+ - [ ] suggest some events! and we will do them 
+
+## Plan for the future!
+We are planning a revamp, please suggest ideas for us to use!
 
 
 ```markdown
